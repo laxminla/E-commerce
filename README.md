@@ -35,7 +35,7 @@ https://github.com/laxminla/E-commerce.git
 
 
 ## Walkthrough video
-https://watch.screencastify.com/v/uZH42iZmwVvxIdBwWcsK
+
 
 
 ## Linkedin
