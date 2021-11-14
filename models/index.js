@@ -34,6 +34,7 @@ Tag.belongsToMany(Product, {
   },
   foriegnKey: 'tag_id'
 });
+
 module.exports = {
   Product,
   Category,
